@@ -10,8 +10,10 @@ pwd
 ls
 
 # (3) Change your directory to a folder in which you do work for this class (if you haven't created such a folder, please do so now — perhaps titled "INFO201") [1 point]
+cd info201_summer2023
 
 # (4) Clone your assignment repository from GitHub to your machine/computer [1 point]
+...
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
 
