@@ -25,6 +25,7 @@ cd /Users/lailagmerek/Desktop/info201_summer2023/assignment-01-lailagmerek/image
 git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
+git commit -m Edited file and added Covid Visualization
 
 # (9) Finally, push your changes to GitHub [1 point]
 
