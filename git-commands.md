@@ -22,6 +22,7 @@ cd assignment-01-lailagmerek
 cd /Users/lailagmerek/Desktop/info201_summer2023/assignment-01-lailagmerek/images/COVID-19-Visualizations/covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
+git add .
 
 # (8) Commit these changes, and include a *descriptive message* [2 points]
 
