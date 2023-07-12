@@ -19,6 +19,7 @@ git clone https://github.com/info201a-su23/assignment-01-lailagmerek
 cd assignment-01-lailagmerek
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
+cd /Users/lailagmerek/Desktop/info201_summer2023/assignment-01-lailagmerek/images/COVID-19-Visualizations/covid-example-2.png
 
 # (7) Add all of the changes that you've made to this file with git [1 point]
 
