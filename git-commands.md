@@ -16,6 +16,7 @@ cd info201_summer2023
 git clone https://github.com/info201a-su23/assignment-01-lailagmerek
 
 # (5) Using a *relative path*, change your directory to inside the repository you just cloned [1 point]
+cd assignment-01-lailagmerek
 
 # (6)  What is the *absolute path* of the image file "covid-example-2.png"? (You can answer the absolute path on your own computer, or the absolute path only within the GitHub repository) [1 points]
 
