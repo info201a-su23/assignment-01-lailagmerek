@@ -28,5 +28,6 @@ git add .
 git commit -m Edited file and added Covid Visualization
 
 # (9) Finally, push your changes to GitHub [1 point]
+git push
 
 ```
